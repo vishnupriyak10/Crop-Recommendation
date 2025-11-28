@@ -74,7 +74,7 @@ Pickle for model saving
 
 🛠️ How to Run the Project
 1️⃣ Clone the repository
-git clone https://github.com/your-username/crop-recommendation.git
+git clone https://github.com/vishnupriyak10/Crop-Recommendation/tree/main
 cd crop-recommendation
 
 2️⃣ Install dependencies
